@@ -1,0 +1,2 @@
+# nantekkotai.github.io
+blog
